@@ -1,0 +1,3 @@
+Tipos de palos: {negros, rojos, verdes, azules}
+Numero de jugadores: 3
+Valor para ganar el juego: 21
